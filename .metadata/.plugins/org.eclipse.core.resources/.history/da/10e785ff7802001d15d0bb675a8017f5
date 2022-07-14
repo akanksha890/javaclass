@@ -1,0 +1,19 @@
+package helloworld;
+
+public class stringmethod {
+
+	public static void main(String[] args) {
+
+		String s = "hello world";
+		System.out.println("length=" + s.length());
+
+		System.out.println("index of w= " + s.indexOf('w'));
+		
+		System.out.println("character at 3= " + s.charAt(3));
+		System.out.println("character at 0= " + s.charAt(0));
+		System.out.println("index of l= " + s.indexOf('l'));
+		System.out.println("index of second l = " + s.indexOf('l',2));
+
+		
+	}
+}

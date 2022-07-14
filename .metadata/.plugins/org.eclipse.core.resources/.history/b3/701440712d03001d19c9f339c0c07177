@@ -1,0 +1,15 @@
+package helloworld;
+
+public class wrapperclass {
+
+	public static void main(String[] args) {
+		int y = 1;
+		Integer x = 2;
+		Integer z = new Integer(5);
+
+		int myint = z;
+
+		short b = 3276;
+		Short newshort = b;
+	}
+}

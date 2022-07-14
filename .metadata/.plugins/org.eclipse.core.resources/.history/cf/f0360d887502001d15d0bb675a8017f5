@@ -1,0 +1,10 @@
+package helloworld;
+
+public class s6string {
+	public static void main(String[] args) {
+		String name = "Max Willam";
+		System.out.println("name"+ name);
+		System.out.println("length"+ name.length());
+	}
+
+}

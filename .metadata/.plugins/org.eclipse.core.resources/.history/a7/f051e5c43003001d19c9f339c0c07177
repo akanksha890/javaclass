@@ -1,0 +1,19 @@
+package helloworld;
+
+public class s11condintion {
+	public static void main(String[] args) {
+		boolean isAlien=false;
+		
+		if(isAlien) {
+			System.out.println("Its an alien");
+		}
+		if(!isAlien) {
+			System.out.println("Its not an alien");
+		}
+
+		String name="joey";
+		if(name=="joey") {
+			System.out.println("correct name");
+		}
+		}
+	}
