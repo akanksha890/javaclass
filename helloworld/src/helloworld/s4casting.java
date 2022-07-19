@@ -12,5 +12,7 @@ public class s4casting {
 		System.out.println(b);
 		b=(byte)i;
 		System.out.println(b);
+		
+		
 	}
 }
