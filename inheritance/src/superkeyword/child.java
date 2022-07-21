@@ -8,6 +8,7 @@ public class child extends parent{
 	}
 	
 	child(int c,int d){
+		super(-1,-1);
 		this.c=c;
 		this.d=d;
 	}
